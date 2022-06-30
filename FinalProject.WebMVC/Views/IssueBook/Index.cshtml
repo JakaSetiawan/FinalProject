@@ -320,7 +320,13 @@
                         text: "Tanggal Pengembalian",
                         sortable: true
                     },
-                    { field: "AdminName", text: "Admin Pengimput", sortable: true }
+                    {
+                        render: function (c) {
+                            return c.Status ? "Sudah Dikembalikan" : "Belum Dikembalikan";
+                        },
+                        text: "Status",
+                        sortable: true
+                    }
                 ],
                 fieldKey: "IssueBookID",
                 view: view

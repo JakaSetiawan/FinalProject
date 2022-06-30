@@ -1,0 +1,231 @@
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\msvcr120.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\msvcr120.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll.config
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.pdb
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\CodeID.Helper.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.Common.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.SqlServer.Types.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\ReportViewerForMvc.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Linq.Dynamic.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.pdb
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll.config
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.pdb
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll.config
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csprojResolveAssemblyReference.cache
+D:\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.pdb
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.pdb
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe.config
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.rsp
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.exe
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.rsp
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.AppContext.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe.config
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.rsp
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe
+D:\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.rsp
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.exe
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.rsp
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.AppContext.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.rsp
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\CodeID.Helper.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.Common.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.SqlServer.Types.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\ReportViewerForMvc.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Linq.Dynamic.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.AssemblyReference.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.CoreCompileInputs.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.CopyComplete
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\msvcr120.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\msvcr120.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.exe.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\csc.rsp
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.exe
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\csi.rsp
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.AppContext.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.exe.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\vbc.rsp
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.WebMVC.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\EntityFramework.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.Common.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.ReportViewer.WebForms.DLL
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.SqlServer.Types.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\ReportViewerForMvc.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Linq.Dynamic.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Common.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Entity.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\FinalProject.Facade.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\EntityFramework.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\EntityFramework.SqlServer.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\Newtonsoft.Json.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Razor.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Webpages.Razor.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Helpers.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\bin\System.Web.Mvc.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.AssemblyReference.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.CoreCompileInputs.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.csproj.CopyComplete
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.WebMVC\obj\Debug\FinalProject.WebMVC.pdb

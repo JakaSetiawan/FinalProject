@@ -1,0 +1,267 @@
+﻿@using FinalProject.Entity;
+@{
+    var obj = Session["UserName"];
+    var userName = obj == null ? "" : obj.ToString();
+    obj = Session["Role"];
+    var userType = obj == null ? "" : obj.ToString();
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Sistem Informasi Perpustakaan MAN 20 | @ViewBag.Title</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+    <!-- Bootstrap 3.3.7 -->
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Content/bootstrap-datepicker.min.css">
+    <link rel="stylesheet" href="~/Content/bootstrap-datepicker3.min.css">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/Content/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="~/Content/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/admin-lte/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. Choose a skin from the css/skins
+         folder instead of downloading all of them to reduce the load. -->
+    <link rel="stylesheet" href="~/admin-lte/css/skins/_all-skins.min.css">
+    <link rel="stylesheet" href="~/Content/sweetalert2.min.css">
+    <link rel="stylesheet" href="~/Content/Site.css">
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="~/Images/favico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="~/Images/favico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="~/Images/favico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="~/Images/favico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="~/Images/favico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="~/Images/favico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="~/Images/favico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="~/Images/favico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="~/Images/favico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="~/Images/favico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/Images/favico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="~/Images/favico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/Images/favico/favicon-16x16.png">
+    <link rel="manifest" href="~/Images/favico/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="~/Images/favico/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body class="hold-transition skin-blue sidebar-mini" style="padding:0;">
+    <!-- Site wrapper -->
+    <div class="wrapper">
+        <header class="main-header">
+            <!-- Logo -->
+            <a href="/" class="logo">
+                <!-- mini logo for sidebar mini 50x50 pixels -->
+                <span class="logo-mini"><b>A</b>LT</span>
+                <!-- logo for regular state and mobile devices -->
+                <span class="logo-lg"><b>SiPerpus</b>App </span>
+            </a>
+            <!-- Header Navbar: style can be found in header.less -->
+            <nav class="navbar navbar-static-top">
+                <!-- Sidebar toggle button-->
+                <a href="#" class="sidebar-toggle" data-toggle="push-menu" role="button">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+                <div class="navbar-custom-menu">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown notifications-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="fa fa-bell-o"></i>
+                                <span class="label label-warning">10</span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="header">You have 10 notifications</li>
+                                <li>
+                                    <!-- inner menu: contains the actual data -->
+                                    <ul class="menu">
+                                        <li>
+                                            <a href="#">
+                                                <i class="fa fa-users text-aqua"></i> 5 new members joined today
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="footer"><a href="#">View all</a></li>
+                            </ul>
+                        </li>
+                        <!-- User Account: style can be found in dropdown.less -->
+                        <li class="dropdown user user-menu">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <img src="~/admin-lte/img/user2-160x160.jpg" class="user-image" alt="User Image">
+                                <span class="hidden-xs">@userName</span>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <!-- User image -->
+                                <li class="user-header">
+                                    <img src="~/admin-lte/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                                    <p>
+                                        @userName - @userType
+                                        <small>Member since Jun. 2019</small>
+                                    </p>
+                                </li>
+                                <!-- Menu Body -->
+                                <!-- Menu Footer-->
+                                <li class="user-footer">
+                                    <div class="pull-left">
+                                        <a href="#" class="btn btn-default btn-flat">Profile</a>
+                                    </div>
+                                    <div class="pull-right">
+                                        <a href="/Authentication/Logout" class="btn btn-default btn-flat">Sign out</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!-- =============================================== -->
+        <!-- Left side column. contains the sidebar -->
+        <aside class="main-sidebar">
+            <!-- sidebar: style can be found in sidebar.less -->
+            <section class="sidebar">
+                <!-- Sidebar user panel -->
+                <div class="user-panel">
+                    <div class="pull-left image">
+                        <img src="~/admin-lte/img/user2-160x160.jpg" class="img-circle" alt="User Image">
+                    </div>
+                    <div class="pull-left info">
+                        <p>@userName</p>
+                        <a href="#"><i class="fa fa-circle text-success"></i> @userType</a>
+                    </div>
+                </div>
+                <!-- sidebar menu: : style can be found in sidebar.less -->
+                <ul class="sidebar-menu" data-widget="tree">
+                    <li class="header">MAIN NAVIGATION</li>
+                    <li>
+                        <a href="/">
+                            <i class="fa fa-dashboard"></i> <span>Dashboard</span>
+                        </a>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-database"></i>
+                            <span>Master</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="/users/Index"><i class="fa fa-circle-o"></i> Pengguna</a></li>
+                            <li><a href="/students/Index"><i class="fa fa-circle-o"></i> Siswa</a></li>
+                            <li><a href="/books/Index"><i class="fa fa-circle-o"></i> Buku</a></li>
+                            <li><a href="/bookcategory/Index"><i class="fa fa-circle-o"></i> Kategori Buku</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-edit"></i> <span>Transaksi</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="/issuebook/Index"><i class="fa fa-circle-o"></i> Peminjaman</a></li>
+                            <li><a href=""><i class="fa fa-circle-o"></i> Pengembalian</a></li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-file-text-o"></i> <span>Laporan</span>
+                            <span class="pull-right-container">
+                                <i class="fa fa-angle-left pull-right"></i>
+                            </span>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li><a href="/BookCategory/Index"><i class="fa fa-circle-o"></i> Buku</a></li>
+                            <li><a href=""><i class="fa fa-circle-o"></i> Transaksi</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+            </section>
+            <!-- /.sidebar -->
+        </aside>
+        <!-- =============================================== -->
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper">
+            @RenderBody()
+        </div>
+        <!-- /.content-wrapper -->
+        <footer class="main-footer">
+            <div class="pull-right hidden-xs">
+                <b>Version</b> 2.4.0
+            </div>
+            <strong>Copyright &copy; 2022 <a href="#">Jaka Setiawan</a>.</strong> All rights
+            reserved.
+        </footer>
+
+    </div>
+    <!-- ./wrapper -->
+    <!-- ./angular 1.7.8 -->
+    <script src="~/Scripts/angular/angular.min.js"></script>
+    <!-- jQuery 3 -->
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <!-- Bootstrap 3.3.7 -->
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/bootstrap-datepicker.min.js"></script>
+    <!-- SlimScroll -->
+    <script src="~/Scripts/jquery.slimscroll.min.js"></script>
+
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <!-- AdminLTE App -->
+    <script src="~/admin-lte/js/adminlte.min.js"></script>
+    <!-- Minified version of `es6-promise-auto` below. -->
+    <script src="~/Scripts/es6-promise.min.js"></script>
+    <script src="~/Scripts/es6-promise.auto.min.js"></script>
+    <script src="~/Scripts/axios.min.js"></script>
+    <script src="~/Scripts/bind.min.js"></script>
+    <script src="~/Scripts/gridview.js"></script>
+    <script src="~/Scripts/sweetalert2.min.js"></script>
+    <script src="~/Scripts/jscript.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('.sidebar-menu').tree();
+
+            $(document).on({
+                'show.bs.modal': function () {
+                    var zIndex = 1040 + (10 * $('.modal:visible').length);
+                    $(this).css('z-index', zIndex);
+                    setTimeout(function () {
+                        $('.modal-backdrop').not('.modal-stack').css('z-index', zIndex - 1).addClass('modal-stack');
+                    }, 0);
+                },
+                'hidden.bs.modal': function () {
+                    if ($('.modal:visible').length > 0) {
+                        // restore the modal-open class to the body element, so that scrolling works
+                        // properly after de-stacking a modal.
+                        setTimeout(function () {
+                            $(document.body).addClass('modal-open');
+                        }, 0);
+                    }
+                }
+            }, '.modal');
+
+            $("[number]").on("keypress", function (e) {
+                console.log(e.keyCode);
+                if (!(e.keyCode >= 48 && e.keyCode <= 57) && e.keyCode !== 46) {
+                    return false;
+                }
+            }).addClass("text-right");
+
+
+        })
+    </script>
+    @RenderSection("scripts", false)
+</body>
+</html>

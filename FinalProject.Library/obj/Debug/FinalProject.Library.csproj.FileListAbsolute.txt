@@ -1,0 +1,17 @@
+D:\FinalProject\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.dll
+D:\FinalProject\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.pdb
+D:\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.csprojResolveAssemblyReference.cache
+D:\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.dll
+D:\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.csproj.AssemblyReference.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.csproj.CoreCompileInputs.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\bin\Debug\FinalProject.Library.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.csproj.AssemblyReference.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.csproj.CoreCompileInputs.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Library\obj\Debug\FinalProject.Library.pdb

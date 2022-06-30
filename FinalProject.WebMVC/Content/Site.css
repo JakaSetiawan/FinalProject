@@ -1,0 +1,92 @@
+﻿
+.item-search {
+    display: block;
+    position: relative;
+    max-width: 400px;
+    padding: 0px 20px;
+}
+
+.item-search span:nth-child(1), .item-search span:nth-child(2) {
+    font-weight: 600;
+    color: darkblue;
+}
+
+.item-search a {
+    position: absolute;
+    right: 10px;
+    text-decoration: none;
+    color: red;
+    cursor: pointer;
+}
+
+.item-search a:hover {
+    color: maroon;
+    font-weight: 600;
+}
+
+.table td, .table th{
+    white-space: nowrap;
+    padding-right: 20px !important;
+}
+
+.table th[sortable]{
+    position: relative;
+    cursor: pointer;
+} 
+
+.table th[sortable] i{
+    position: absolute;
+    top: 12px;
+    right: 5px;
+    opacity: .3;
+    margin-left: 20px;
+}
+
+.table td a{
+    margin-right: 8px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.table td a i.fa-edit{
+    color: green;
+}
+
+.table td a i.fa-trash {
+    color: red;
+}
+
+.table td a i.fa-check {
+    color: green;
+}
+
+.page-info {
+    position: relative;
+    margin: 10px auto;
+    padding: 5px 10px;
+    line-height: 10px;
+}
+
+.page-info span{
+    margin: 10px;
+}
+
+input[type="checkbox"]{
+    cursor: pointer;
+}
+
+.datepicker{
+    z-index: 10000 !important;
+}
+
+.upload-container{
+    width: 0;
+    display: inline-block;
+    height: 48px;
+    overflow: hidden;
+    transition: width ease 800ms;
+}
+
+.show-upload{
+    width: 600px;
+}

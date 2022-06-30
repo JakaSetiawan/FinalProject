@@ -1,0 +1,74 @@
+﻿
+@{
+    Layout = "_LayoutLogin.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<div class="login-box">
+    <div class="login-logo">
+        <a href="#"><b>SISFO PERPUSTAKAAN </b>MAN 20 Jakarta</a>
+    </div>
+    <!-- /.login-logo -->
+    <div class="login-box-body">
+        <p class="login-box-msg">Sign in to start your session</p>
+
+        <form action="../../index2.html" method="post">
+            <div class="form-group has-feedback">
+                <input name="userid" type="text" class="form-control" placeholder="User ID" required>
+                <span class="glyphicon glyphicon-user form-control-feedback"></span>
+            </div>
+            <div class="form-group has-feedback">
+                <input name="password" type="password" class="form-control" placeholder="Password" required>
+                <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+            </div>
+            <div class="form-group">
+                <span err-msg style="color: red"></span>
+            </div>
+            <div class="row">
+                <!-- /.col -->
+                <div class="col-xs-12">
+                    <button btn-login type="button" class="btn btn-primary btn-block btn-flat">Sign In</button>
+                </div>
+                <!-- /.col -->
+            </div>
+        </form>
+
+        <a href="#">I forgot my password</a><br>
+
+    </div>
+    <!-- /.login-box-body -->
+</div>
+
+@section scripts
+{
+    <script>
+    (function () {
+        $("[btn-login]").click(function () {
+
+            var cred = {
+                userid: $("[name='userid']").val(),
+                password: $("[name='password']").val()
+            };
+            $("[err-msg]").text = "";
+            axios.post("/Authentication/Login", cred).then(function (res) { return res.data; })
+                .then(function (res) {
+                    console.log(res);
+                    if (res.meta.success && res.data.loggedIn) {
+                        location = "/Default";
+                    } else {
+                        console.log("false", res);
+                        $("[err-msg]").text(res.meta.message);
+                    }
+                });
+        });
+
+        $("[name='password']").keydown(function (e) {
+            if (e.keyCode === 13) {
+                $("[btn-login]").click();
+            }
+        })
+    }())
+
+    </script>
+}
+

@@ -1,0 +1,84 @@
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll.config
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\CodeID.Helper.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\System.Linq.Dynamic.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll.config
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.xml
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.xml
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.xml
+D:\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csprojResolveAssemblyReference.cache
+D:\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.pdb
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\CodeID.Helper.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\System.Linq.Dynamic.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.AssemblyReference.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.CoreCompileInputs.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.CopyComplete
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Facade.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\System.Linq.Dynamic.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Common.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Entity.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Helper.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\FinalProject.Library.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\bin\Debug\Newtonsoft.Json.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.AssemblyReference.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.CoreCompileInputs.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.csproj.CopyComplete
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Facade\obj\Debug\FinalProject.Facade.pdb

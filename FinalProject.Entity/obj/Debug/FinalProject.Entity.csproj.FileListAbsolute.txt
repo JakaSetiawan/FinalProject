@@ -1,0 +1,40 @@
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll.config
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.pdb
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.dll
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.dll
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.xml
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.xml
+D:\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csprojResolveAssemblyReference.cache
+D:\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.dll
+D:\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll.config
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.xml
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.AssemblyReference.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.CoreCompileInputs.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.CopyComplete
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll.config
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\FinalProject.Entity.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\bin\Debug\Newtonsoft.Json.xml
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.AssemblyReference.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.CoreCompileInputs.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.csproj.CopyComplete
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Entity\obj\Debug\FinalProject.Entity.pdb

@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@Html.AntiForgeryToken()
+<section class="content" ng-controller="ctrl">
+    <!-- Default box -->
+    <div class="box box-danger">
+        <div id="data-list">
+            <div class="box-header with-border d-none">
+                <h3 class="box-title" style="color: red">UnAuthorze Page</h3>
+                <div class="box-tools pull-right">
+                    <button type="button" class="btn btn-box-tool" data-widget="collapse" data-toggle="tooltip" title="Collapse">
+                        <i class="fa fa-minus"></i>
+                    </button>
+                    <button type="button" class="btn btn-box-tool" data-widget="remove" data-toggle="tooltip" title="Remove">
+                        <i class="fa fa-times"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="box-body text-center">
+                <h2 style="color: red">Unauthorize!</h2>
+                <h4>It appears that you don't have permission to access the page. <br />Please make sure you you are authorized to view this conteent</h4>
+                <h5>If you think you should be able to view this page, please contact administrator</h5>
+            </div>
+            <!-- /.box-body -->
+            <div class="box-footer text-right">
+
+            </div>
+            <!-- /.box-footer-->
+        </div>
+        <!-- /.box -->
+    </div>
+</section>
+

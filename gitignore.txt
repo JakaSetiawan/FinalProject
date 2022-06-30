@@ -1,0 +1,13 @@
+.vs
+/.vs
+/packages
+*/bin
+*/*/bin/Debug/*.*
+*/*/obj
+*/*/obj/Debug
+*.*/obj/Debug/*.*
+*.exe
+*.pdb
+*.manifest
+*.cache
+

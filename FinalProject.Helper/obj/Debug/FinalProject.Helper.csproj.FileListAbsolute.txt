@@ -1,0 +1,17 @@
+D:\FinalProject\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.dll
+D:\FinalProject\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.pdb
+D:\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.csprojResolveAssemblyReference.cache
+D:\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.dll
+D:\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.pdb
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.csproj.AssemblyReference.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.csproj.CoreCompileInputs.cache
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.dll
+D:\Data Jaka\data codeid\FinalProject\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\bin\Debug\FinalProject.Helper.pdb
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.csproj.AssemblyReference.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.csproj.CoreCompileInputs.cache
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.dll
+D:\Backup Data Jaka\Kuliah Ngab\Aplikasi\FinalProject\FinalProject.Helper\obj\Debug\FinalProject.Helper.pdb
